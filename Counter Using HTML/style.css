@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    
+}
+#heading{
+    color: white;
+    }
+#decrement{
+    background-color: white;
+    color: black;
+    height: 30px;
+    width: 100px
+    }
+#increment{
+    background-color: white;
+    color: black;
+    height: 30px;
+    width: 100px;
+   
+    }
+#reset{
+    background-color: black;
+    color: white;
+    border-color: white;
+    height: 30px;
+    width: 100px;
+    }
+    /* for underline decoration */
+p{
+    color: white;
+    padding-bottom: 15px;
+border-bottom-style:solid;
+border-bottom-width: 1.5px;
+width: fit-content;
+}
